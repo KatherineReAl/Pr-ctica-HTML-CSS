@@ -1,0 +1,16 @@
+.text{
+    color: #e6dcdc;
+    background-color: rgb(102, 121, 121); 
+}
+
+body{
+    /* background-color: gray; */
+    background-image: url(British-scientist-Tim-Berners-Lee.webp);
+    background-size: auto auto;
+} 
+/* .texto{
+    color: #cd3636;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+} */

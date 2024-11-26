@@ -1,0 +1,22 @@
+.text{
+    color: #080808;
+    background-color: rgb(241, 247, 247); 
+}
+
+body{
+    background-color: rgb(236, 160, 160); 
+    /* background-image: url(Fondo_Morat.jpg);
+    background-size: auto auto; */
+} 
+/* .texto{
+    color: #cd3636;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+} */
+
+img{
+    width: 250px;
+    height: 100px;
+    border: 15px rgb(219, 145, 34) solid;
+}

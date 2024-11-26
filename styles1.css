@@ -1,0 +1,16 @@
+.text{
+    color: #1b1a1a;
+    background-color: rgb(209, 227, 174); 
+}
+
+body{
+     background-color: gray;
+    /* background-image: url(); */
+    /* background-size: auto auto; */
+} 
+
+.tittle{
+    color: #cd3636;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+} 
